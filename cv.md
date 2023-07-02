@@ -23,6 +23,7 @@ Highy intelligent and motivated young man, bursting with individual ideas, passi
 - Digital Marketing
 
 ## Code Example
+
 **Language used:** Python
 
 Problem: Return the Sum of Two Numbers
