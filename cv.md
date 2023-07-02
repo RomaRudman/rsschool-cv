@@ -51,3 +51,4 @@ Output: 7
 - Russian = Native
 - Ukrainian = Fluent
 - English = Fluent/C1 according to IELTS tests
+- Spanish = Beginner
