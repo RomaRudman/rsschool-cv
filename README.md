@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://romarudman.github.io/rsschool-cv/cv
